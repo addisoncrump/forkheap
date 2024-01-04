@@ -3,6 +3,9 @@ name = "forkheap"
 version = "0.1.0"
 edition = "2021"
 
+description = "An allocator suitable for sharing heaps between forked processes on Linux."
+repository = "https://github.com/addisoncrump/forkheap.git"
+
 license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
